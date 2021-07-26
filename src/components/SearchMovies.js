@@ -24,7 +24,7 @@ const SearchMovies = () => {
     <React.Fragment>
       <form className='form' onSubmit={searchMovies}>
         <label htmlFor='query' className='label'>
-          Movie Name
+          Movie Title
         </label>
         <input
           type='text'

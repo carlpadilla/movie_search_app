@@ -7,4 +7,5 @@
 .title {
   font-size: 4.4rem;
   text-align: center;
+  filter: drop-shadow(10px 4px 4px #4444dd);
 }
